@@ -19,7 +19,7 @@ go get github.com/lordtatty/a25
 
 ## Usage
 
-Check the [example](https://github.com/lordtatty/a25/example) directory for usage instructions and sample implementations.
+Check the [examples](https://github.com/lordtatty/a25/examples) directory for usage instructions and sample implementations.
 
 ## License
 
