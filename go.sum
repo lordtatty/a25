@@ -1,0 +1,6 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/lordtatty/openai-log v0.0.0-20241014165047-31649d706d39 h1:qlzM7iv2rCi50JpQyZGmhslkjBMO4IdFvfYyDclRV0w=
+github.com/lordtatty/openai-log v0.0.0-20241014165047-31649d706d39/go.mod h1:o3h5ATsRv55mxWBDlJlCtrkLTFmFHAWBnqYFtqylVgU=
+github.com/sashabaranov/go-openai v1.32.1 h1:JmdOa6d+cQwvGpBJigQf+dq40Qc20b+1HcXRGVOmqFw=
+github.com/sashabaranov/go-openai v1.32.1/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
